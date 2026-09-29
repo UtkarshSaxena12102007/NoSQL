@@ -39,7 +39,7 @@ MongoDB-Student-Database-Operations/
 │
 ├── README.md
 │
-└── MongoDB_Student_Database_Project_Utkarsh_Saxena.pdf
+└── NoSQL Project.pdf
 ```
 
 ---
@@ -361,7 +361,7 @@ studentRecords
 
 ### Step 5 — Follow the Practical
 
-Refer to `MongoDB_Student_Database_Project_Utkarsh_Saxena.pdf` for the complete questions, MongoDB commands, and generated mongosh-style output screenshots.
+Refer to `NoSQL Project.pdf` for the complete questions, MongoDB commands, and generated mongosh-style output screenshots.
 
 ---
 
@@ -369,7 +369,7 @@ Refer to `MongoDB_Student_Database_Project_Utkarsh_Saxena.pdf` for the complete 
 
 The repository includes:
 
-### `MongoDB_Student_Database_Project_Utkarsh_Saxena.pdf`
+### `NoSQL Project.pdf`
 
 The PDF contains the complete practical documentation, including:
 
